@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Dance**
+**Smile**
+_Meditate_
+__Keep Learing Gratitude__
+*Don't hurt anyone and don't let anyone hurt you :)*
